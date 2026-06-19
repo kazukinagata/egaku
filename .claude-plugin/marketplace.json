@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "egaku",
+  "owner": {
+    "name": "Kazuki Nagata"
+  },
+  "metadata": {
+    "description": "Creative production skills for AI agents — turn vague ideas into professional outputs"
+  },
+  "plugins": [
+    {
+      "name": "egaku",
+      "source": "./",
+      "description": "Creative production suite for AI agents. Interview-driven skills that turn a vague mental image into professional, ready-to-use outputs. Currently includes image-prompt (image-generation prompts); landing pages and more to come.",
+      "license": "MIT",
+      "category": "design",
+      "tags": ["image-generation", "prompt", "creative", "interview", "agent-agnostic"]
+    }
+  ]
+}

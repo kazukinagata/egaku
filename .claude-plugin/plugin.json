@@ -1,0 +1,9 @@
+{
+  "name": "egaku",
+  "version": "0.1.0",
+  "description": "Creative production suite. Interview-driven skills that turn a vague mental image into professional, ready-to-use outputs. Includes image-prompt.",
+  "author": {
+    "name": "Kazuki Nagata"
+  },
+  "license": "MIT"
+}
